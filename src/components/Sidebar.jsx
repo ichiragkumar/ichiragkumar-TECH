@@ -91,7 +91,7 @@ const Sidebar = () => {
 </aside>
 
 
-      <div className="bg-black  w-full h-screen">
+      <div className="bg-black  w-full h-full">
          <Info/>
       </div>
 
